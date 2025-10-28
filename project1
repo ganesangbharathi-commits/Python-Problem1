@@ -1,4 +1,4 @@
-class VGLUGcompany:
+class vglug foundation
     def __init__(self,name,age,id,salary,phone):
         self.name=name
         self.age=age
@@ -13,5 +13,5 @@ class VGLUGcompany:
         print("Salary:",self.salary)
         print("Phone:",self.phone)
 
-Vcom=VGLUGcompany("HARI",21,1014,750000,7094975269)
+Vcom=Vglug foundation("HARI",21,1014,750000,7094975269)
 Vcom.getEmployeeDetails()
